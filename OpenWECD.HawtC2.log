@@ -1,0 +1,13 @@
+----------! OpenWECD.HawtC2.C DLL Log file. !----------
+[Message]: 许可证授权文件正确！
+OpenWECD.HawtC2.C DLL - Tel:13935201274  E:1821216780@qq.com http://www.hawtc.cn/
+HawtC2.C DLL Vision:VVSCODE CALL_Release_x64,BuildAt: 2024.11.27 Math:SIMD@zzz
+ > Publish: Powered by Key Laboratory of Jiangsu province high tech design @Tg Team
+ > Licensd: 超级用户 - Copyright (c)ZHAO ZIZHEN Lic at 2025-05-21 
+[Message]: Cant find Native acc
+[Message]: Cant find MKL acc
+[Message]: Cant find OpenBLAS acc
+[Message]: Cant find CUDA acc
+Read File!
+ ERROR! :当前文件：HawtC2_5MW_PowerProduction_Spar.hst不存在！请检查路径
+************* ! H a w t C 2 . C   D L L . R U N . E R R O R ! **************
